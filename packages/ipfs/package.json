@@ -56,7 +56,7 @@
     "ipfs-client": "^0.4.2",
     "ipfs-core-types": "^0.5.1",
     "ipfs-http-client": "^50.1.1",
-    "ipfs-interop": "^5.0.2",
+    "ipfs-interop": "^9.0.0",
     "ipfs-utils": "^8.1.2",
     "ipfsd-ctl": "^8.0.1",
     "iso-url": "^1.0.0",
